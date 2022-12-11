@@ -1,6 +1,6 @@
 Example Voting App
 =========
-This is a slight change 2
+This is a slight change 3
 
 Getting started
 ---------------
