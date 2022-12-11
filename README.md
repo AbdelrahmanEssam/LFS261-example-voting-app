@@ -1,6 +1,10 @@
 Example Voting App
 =========
-This is a slight change 3
+<<<<<<< HEAD
+=======
+This is a slight change. from pull request
+This simple edit is from Guthub
+>>>>>>> 5ed35b0dc735be632938252a64878441fd209592
 
 Getting started
 ---------------
