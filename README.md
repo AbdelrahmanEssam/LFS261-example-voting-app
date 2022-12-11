@@ -1,6 +1,7 @@
 Example Voting App
 =========
 This is a slight change. from pull request
+This simple edit is from Guthub
 
 Getting started
 ---------------
