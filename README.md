@@ -5,6 +5,7 @@ Example Voting App
 This is a slight change. from pull request
 This simple edit is from Guthub
 >>>>>>> 5ed35b0dc735be632938252a64878441fd209592
+This is extra line added from Github
 
 Getting started
 ---------------
